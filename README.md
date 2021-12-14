@@ -1,7 +1,7 @@
 # 0xF
 0xF a very advanced economy discord bot that has everything you'll ever need
 
-** Setup **
+** == Setup == **
 ```js
 since this bot is in v5 and you want to make your own commanda with embeds here are the changes 
 $description[ == $description[1;
@@ -28,4 +28,15 @@ $description[1;This repository is owned by Snipedprox aka lexi]
 
 ** == Hosting == **
 [Replit](https;//replit.com) 0$
-[TechHost](https://dash.techost.live/servers) paid
+
+
+[TechHost](https://dash.techost.live/servers) paid[
+
+
+[DanBot hosting](https://panel.danbot.host/) 0$
+
+
+[Artiom hosting](https://panel.artiomshosting.xyz/) 0$
+
+
+** == Contact me == **
