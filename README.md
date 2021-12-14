@@ -26,11 +26,12 @@ $addTimeStamp[1;ms]
 $description[1;This repository is owned by Snipedprox aka lexi]
 ```
 
-** == Hosting == **
+* == Hosting == *
+
 [Replit](https;//replit.com) 0$
 
 
-[TechHost](https://dash.techost.live/servers) paid[
+[TechHost](https://dash.techost.live/servers) paid
 
 
 [DanBot hosting](https://panel.danbot.host/) 0$
