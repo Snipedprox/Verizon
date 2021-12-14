@@ -36,23 +36,26 @@ $description[1;This repository is owned by Snipedprox aka lexi]
 
 # == Hosting == 
 
-[Replit](https;//replit.com) 0$
+# [Replit](https;//replit.com) 0$
 
 
-[TechHost](https://dash.techost.live/servers) paid
+# [TechHost](https://dash.techost.live/servers) paid
 
 
-[DanBot hosting](https://panel.danbot.host/) 0$
+# [DanBot hosting](https://panel.danbot.host/) 0$
 
 
-[Artiom hosting](https://panel.artiomshosting.xyz/) 0$
+# [Artiom hosting](https://panel.artiomshosting.xyz/) 0$
 
 
 # == Information == 
 
 Coding discord bots is my passion and profession maybe im not the best but i will be one of the best soon. i do not code in teams since it makes me anxious and i dont like teams 😐
 i code alone and i dont make money of of coding
-this project is made by me 
+this project is made by me. also if i ever send you a dangerous fake nitro link im sorry but i was hacked ( im gullible i think smh) 
+
+# basic information
+
 1. The bots Language is English but
 2. If you run .invite you'll see the french version my friend Slow is making
 3. Do not remove the credit else ill take away your pc 🙃 ( but fr you shouldn't )
