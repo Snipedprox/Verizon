@@ -1,4 +1,4 @@
-![0xF](https://github.com/Snipedprox/images/blob/4abdb90780d6bdd18d27ffa2aa91cff8bdb69676/753effd92d8958e924f99200413a3871.png)
+# 0xF
 
 
 
@@ -47,4 +47,4 @@ $description[1;This repository is owned by Snipedprox aka lexi]
 [Artiom hosting](https://panel.artiomshosting.xyz/) 0$
 
 
-** == Contact me == **
+# == Contact me == 
