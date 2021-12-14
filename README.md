@@ -1,7 +1,7 @@
-# 0xF
+![0xF](https://github.com/Snipedprox/images/blob/4abdb90780d6bdd18d27ffa2aa91cff8bdb69676/753effd92d8958e924f99200413a3871.png)
 0xF a very advanced economy discord bot that has everything you'll ever need
 
-** == Setup == **
+# == Setup == 
 ```js
 since this bot is in v5 and you want to make your own commanda with embeds here are the changes 
 $description[ == $description[1;
@@ -26,7 +26,7 @@ $addTimeStamp[1;ms]
 $description[1;This repository is owned by Snipedprox aka lexi]
 ```
 
-* == Hosting == *
+# == Hosting == 
 
 [Replit](https;//replit.com) 0$
 
