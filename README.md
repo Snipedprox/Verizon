@@ -65,4 +65,4 @@ this project is made by me. also if i ever send you a dangerous fake nitro link 
  add me on discord  Evade#6600
  
  with that said
- # I hope you have a wonderful day and happy new year and happy coding!
+ # I hope you have a wonderful day and happy new year and happy coding! ( if u want to support u can give me nitro since getting animated emotes is hard )
