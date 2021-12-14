@@ -47,4 +47,18 @@ $description[1;This repository is owned by Snipedprox aka lexi]
 [Artiom hosting](https://panel.artiomshosting.xyz/) 0$
 
 
-# == Contact me == 
+# == Information == 
+
+Coding discord bots is my passion and profession maybe im not the best but i will be one of the best soon. i do not code in teams since it makes me anxious and i dont like teams 😐
+i code alone and i dont make money of of coding
+this project is made by me 
+1. The bots Language is English but
+2. If you run .invite you'll see the french version my friend Slow is making
+3. Do not remove the credit else ill take away your pc 🙃 ( but fr you shouldn't )
+4. I recommend a good host and the best is actually techhost even though its paid it satisfied me!
+
+
+ add me on discord  Evade#6600
+ 
+ with that said
+ # I hope you have a wonderful day and happy new year and happy coding!
