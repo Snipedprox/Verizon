@@ -26,3 +26,6 @@ $addTimeStamp[1;ms]
 $description[1;This repository is owned by Snipedprox aka lexi]
 ```
 
+** == Hosting == **
+[Replit](https;//replit.com) 0$
+[TechHost](https://dash.techost.live/servers) paid
