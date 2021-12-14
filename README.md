@@ -11,7 +11,8 @@
 # == Setup == 
 ```js
 since this bot is in v5 and you want to make your own commanda with embeds here are the changes 
-$description[ == $description[1;]
+
+$description[] == $description[1;]
 $title[] == $title[1;]
 $footer[]== footer[1;]
 $color[] == $color[1;]
