@@ -24,7 +24,7 @@ $onlyif[$interactionData[values[0]]==utility;]`
   name: "helpcmd", 
   type: "interaction",
   prototype: "selectMenu", 
-  code: `$interactionReply[;{newEmbed:{title:Economy commands}{thumbnail:$userAvatar[$clientID]}{description:\`job\` **,** \`work\` **,** \`beg\` **,** \`deposit\` **,** \`withdraw\` **,** \`stream\` **,** \`shop\` **,** \`mine\` **,** \`inventory\` **,** \`buy\` **,** \`balance\` **,** \`sell\` **,** \`fish\` **,** \`hunt\` **,** \`daily\` **,** \`weekly\` **,** \`collect\` **,** \`profile\` **,** \`xp\` **,** \`box\` **,** \`boxes\` **,** \`gift\` **,** \`use\` **,** \`stroll\` **,** \`adventure\` **,** \`craft\` **,** \`recipes\` **,** \`chop\` **,** \`melt\`}{footer:My server prefix is $getServerVar[prefix]}{color:$getvar[color]}};;;yes]
+  code: `$interactionReply[;{newEmbed:{title:Economy commands}{thumbnail:$userAvatar[$clientID]}{description:\`job\` **,** \`work\` **,** \`beg\` **,** \`deposit\` **,** \`withdraw\` **,** \`stream\` **,** \`shop\` **,** \`mine\` **,** \`inventory\` **,** \`buy\` **,** \`balance\` **,** \`sell\` **,** \`fish\` **,** \`hunt\` **,** \`daily\` **,** \`weekly\` **,** \`collect\` **,** \`profile\` **,** \`xp\` **,** \`box\` **,** \`boxes\` **,** \`gift\` **,** \`use\` **,** \`stroll\` **,** \`adventure\` **,** \`craft\` **,** \`recipes\` **,** \`chop\` **,** \`melt\` **,** \`slots\`}{footer:My server prefix is $getServerVar[prefix]}{color:$getvar[color]}};;;yes]
 $onlyif[$interactionData[values[0]]==economy;]`
 }, {
   name: "helpcmd", 
