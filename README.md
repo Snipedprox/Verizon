@@ -26,7 +26,7 @@ module.exports = {
 name: "test",
 code: `
 $title[1;Testing]
-$author[1;Also testing
+$author[1;Also testing]
 $footer[1;This command is a test]
 $thumbnail[1; < image link > ]
 $color[1;00ff00]
