@@ -1,9 +1,9 @@
-# 0xF  ![](https://github.com/Snipedprox/images/blob/main/blueflames.png?raw=true)
+# Hoirzon  ![](https://github.com/Snipedprox/images/blob/main/blueflames.png?raw=true)
 
 
 
 
-0xF a very advanced economy discord bot that has everything you'll ever need
+Horizon a very advanced economy discord bot that has everything you'll ever need
 
 
 
@@ -52,7 +52,7 @@ $description[1;This repository is owned by Snipedprox aka lexi]
 
 Coding discord bots is my passion and profession maybe im not the best but i will be one of the best soon. i do not code in teams since it makes me anxious and i dont like teams 😐
 i code alone and i dont make money of of coding
-this project is made by me. also if i ever send you a dangerous fake nitro link im sorry but i was hacked ( im gullible i think smh) 
+this project is made by me.
 
 # basic information
 
