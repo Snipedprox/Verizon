@@ -41,7 +41,7 @@ $else
 $if[$message==recharge]
 $author[1;Pickaxe upgrade]
 $color[1;$getVar[color]]
-$description[1;**You upgraded your $replaceText[$getGlobalUserVar[wood_pickaxe];1;<:woodpick:921148995601055814>]$replaceText[$getGlobalUserVar[iron_pickaxe];1;<:ironpick:921149161095712809>]$replaceText[$getGlobalUserVar[gold_pickaxe];1;<:goldpick:921149173796048896>]$replaceText[$getGlobalUserVar[diamond_pickaxe];1;<:diamondpick:921149444878131312>] 2,500 $getVar[symbol]**]
+$description[1;**You upgraded your $replaceText[$replaceText[$getGlobalUserVar[wood_pickaxe];1;<:woodpick:921148995601055814>];0;]$replaceText[$replaceText[$getGlobalUserVar[iron_pickaxe];1;<:ironpick:921149161095712809>];0;]$replaceText[$replaceText[$getGlobalUserVar[gold_pickaxe];1;<:goldpick:921149173796048896>];0;]$replaceText[$replaceText[$getGlobalUserVar[diamond_pickaxe];1;<:diamondpick:921149444878131312>];0;] 2,500 $getVar[symbol]**]
 
 
 
@@ -54,7 +54,7 @@ $description[1;**You upgraded your $replaceText[$getGlobalUserVar[wood_pickaxe];
 
 
 $setGlobalUserVar[durability;10]
-$onlyIf[$getGlobalUserVar[durability]>0;**You still have some durability left**]
+$onlyIf[$getGlobalUserVar[durability]==0;**You still have some durability left**]
 $onlyIf[$getGlobalUserVar[cash]>2499;**You do not have enough $getVar[symbol] to upgrade your $replaceText[$getGlobalUserVar[wood_pickaxe];1;<:woodpick:921148995601055814>]$replaceText[$getGlobalUserVar[iron_pickaxe];1;<:ironpick:921149161095712809>]$replaceText[$getGlobalUserVar[gold_pickaxe];1;<:goldpick:921149173796048896>]$replaceText[$getGlobalUserVar[diamond_pickaxe];1;<:diamondpick:921149444878131312>] you need 2,500 $getVar[symbol]]
 
 $else
@@ -123,19 +123,3 @@ $endif
 $endif
 $endif 
 $endif`}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
