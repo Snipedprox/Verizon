@@ -5,12 +5,11 @@ module.exports = [{
   usage: "\`$getServerVar[prefix]help <command>\`",
   code: `
 $if[$message==]
-$title[1;<:iconfire:917445081890431066> $username[$clientid] commandlist;https://sayu.cextora.repl.co/]
+$title[1;<:iconfire:917445081890431066> $username[$clientid] commandlist;https://Horizon.snipedprox.repl.co]
 $description[1;
 **Use the select menu below to view all my cool commands**.
 
-<:ribbonn:917024966883545098> **[Offical server](https://discord.gg/8HbkqA73Jj) **,** [Invite link](https://discord.com/api/oauth2/authorize?client_id=915037953863061575&permissions=3533921&scope=bot%20applications.commands) **,** [Website](https://sayu.cextora.repl.co/) **<:ribbonn:917024966883545098>]
-$image[1;https://media.discordapp.net/attachments/910781655097163796/920128207364169799/Untitled13_20211214104030.png]
+<:ribbonn:917024966883545098> **[Offical server](https://discord.gg/8HbkqA73Jj)  [Invite link](https://discord.com/api/oauth2/authorize?client_id=915037953863061575&permissions=3533921&scope=bot%20applications.commands)  [Website](https://Horizon.snipedprox.repl.co) **<:ribbonn:917024966883545098>]
 $color[1;$getVar[color]]
 $addSelectMenu[1;helpcmd;Help categories;1;1;no;economy commands:All cool economy commands.:economy:no:<a:golddot:918967267147005952>;Utility commands:Utility commands.:utility:no:<a:golddot:918967267147005952>;Promocode commands:All of my promocode commands.:promocodes:no:<a:golddot:918967267147005952>;Music commands:All of my music commands.:music:no:<a:golddot:918967267147005952>;Pet commands:All of my pet commands.:pet:no:<a:golddot:918967267147005952>;Level commands:All of my level commands.:rank:no:<a:golddot:918967267147005952>]
 $endif`
@@ -24,7 +23,7 @@ $onlyif[$interactionData[values[0]]==utility;]`
   name: "helpcmd", 
   type: "interaction",
   prototype: "selectMenu", 
-  code: `$interactionReply[;{newEmbed:{title:Economy commands}{thumbnail:$userAvatar[$clientID]}{description:\`job\` **,** \`work\` **,** \`beg\` **,** \`deposit\` **,** \`withdraw\` **,** \`stream\` **,** \`shop\` **,** \`mine\` **,** \`inventory\` **,** \`buy\` **,** \`balance\` **,** \`sell\` **,** \`fish\` **,** \`hunt\` **,** \`daily\` **,** \`weekly\` **,** \`collect\` **,** \`profile\` **,** \`xp\` **,** \`box\` **,** \`boxes\` **,** \`gift\` **,** \`use\` **,** \`stroll\` **,** \`adventure\` **,** \`craft\` **,** \`recipes\` **,** \`chop\` **,** \`melt\` **,** \`slots\`}{footer:My server prefix is $getServerVar[prefix]}{color:$getvar[color]}};;;yes]
+  code: `$interactionReply[;{newEmbed:{title:Economy commands}{thumbnail:$userAvatar[$clientID]}{description:\`job\` **,** \`work\` **,** \`beg\` **,** \`deposit\` **,** \`withdraw\` **,** \`stream\` **,** \`shop\` **,** \`mine\` **,** \`inventory\` **,** \`buy\` **,** \`balance\` **,** \`sell\` **,** \`fish\` **,** \`hunt\` **,** \`daily\` **,** \`weekly\` **,** \`collect\` **,** \`profile\` **,** \`xp\` **,** \`box\` **,** \`boxes\` **,** \`gift\` **,** \`use\` **,** \`stroll\` **,** \`adventure\` **,** \`craft\` **,** \`recipes\` **,** \`chop\` **,** \`melt\` **,** \`slots\` **,** \`woodshop\` **,** \`pickaxe\` **,** \`upgrade\` **,** \`recharge\` **,** \`stats\` **,** \`list\`}{footer:My server prefix is $getServerVar[prefix]}{color:$getvar[color]}};;;yes]
 $onlyif[$interactionData[values[0]]==economy;]`
 }, {
   name: "helpcmd", 
