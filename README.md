@@ -20,7 +20,7 @@ $author[] == $author[1;]
 $thumbnail[] == $thumbnail[1;]
 $addTimeStamp == $addTimeStamp[1;ms]
 
-== Ny point ==
+== My point ==
 everything that had to do with embeds has changed heres an example
 module.exports = {
 name: "test",
