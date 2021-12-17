@@ -18,9 +18,26 @@ const config = require('./config.js');
 const bot = new aoijs.Bot(config.Bot);
 const fs = require('fs');
 
+bot.onMessage();
+bot.functionManager.createCustomFunction({
+  name: "$id",
+  type: "aoi.js",
+    params: ['msg'],
+  code: `$findUser[$get[msg];yes]
+$let[msg;{msg}]`
+})
+
+bot.functionManager.createCustomFunction({
+  name: "$eid",
+  type: "aoi.js",
+    params: ['msg'],
+  code: `\`$customEmoji[{msg}]\``
+})
+
+bot.onInteractionCreate();
 
 
-
+ 
 
 //Configs
 require('./handler/status')(bot)
@@ -67,5 +84,4 @@ loader.setColors({
   },
  
 })
-
 
