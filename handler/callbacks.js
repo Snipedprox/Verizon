@@ -1,5 +1,4 @@
 module.exports = (bot) => {
-bot.onMessage();
 bot.onReactionAdd();
 bot.onReactionRemove();
 bot.onLeave();
@@ -22,7 +21,6 @@ bot.onMessageUpdate();
 bot.onPresenceUpdate();
 bot.onUserUpdate();
 bot.onMessageDelete();
-bot.onInteractionCreate();
 bot.onGuildUpdate();
 bot.onEmojiCreate();
 bot.onEmojiUpdate();
