@@ -1,6 +1,6 @@
 module.exports = (bot) => {
     bot.status({
-        text: "@0xF and my server prefix is :",
+        text: "@Horizon and my server prefix is :",
         type: "PLAYING",
         time: 12
     })
