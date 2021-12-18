@@ -1,6 +1,6 @@
 module.exports = {
     Bot: {
-    token: "process.env.token",
+    token: process.env.token,
     prefix: ["$getServerVar[prefix]","<@$clientID>",":"],
     intents: "all",
     database: {
